@@ -4,3 +4,4 @@ Completed basics of Sql.
 Started advance Sql.
 Reading Subquery.
 Doing practiceon Subquery.
+Reading Collections.
