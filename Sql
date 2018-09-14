@@ -1,0 +1,2 @@
+Reading Sql.
+Reading basics of Sql
