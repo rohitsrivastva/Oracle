@@ -2,3 +2,5 @@ Reading Sql.
 Reading basics of Sql
 Completed basics of Sql.
 Started advance Sql.
+Reading Subquery.
+Doing practiceon Subquery.
